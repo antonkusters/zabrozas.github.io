@@ -5,16 +5,17 @@ body {
 }
 a {
     text-decoration: none;
-    color: #990000;
+    color: #FFFFFF;
+    background: #990000;
 }
 a:hover {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
+    background: #000000;
 }
 h1 {
     font-size: 3em;
     font-weight: normal;
     color: #666;
-    padding-bottom: 5em;
 }
 h2 {
     padding-top: 5em;
