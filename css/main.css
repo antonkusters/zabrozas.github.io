@@ -33,6 +33,10 @@ p {
 img {
     margin-left: -0.5em;
 }
+footer {
+    margin-top: 5em;
+}
+
 footer ul {
     padding: 0px;
     list-style: none;
