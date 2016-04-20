@@ -2,11 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #333;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #990000;
 }
 a:hover {
     text-decoration: underline;
@@ -14,9 +13,17 @@ a:hover {
 h1 {
     font-size: 3em;
     font-weight: normal;
+    line-height: 3em;
+    color: #666;
+}
+h2 {
+    font-size: 2em;
+    font-weight: normal;
+    line-height: 2em;
+    color: #666;
 }
 p {
     font-size: 1em;
     line-height: 1.7em;
-    color: #333;
+    color: #666;
 }
