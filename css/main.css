@@ -1,5 +1,6 @@
 body {
-    margin: 50px;
+    margin: 70px auto;
+    width: 80%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 a {
@@ -26,7 +27,8 @@ h2 {
 }
 p {
     font-size: 1em;
-    line-height: 1.7em;
+    line-height: 2em;
     color: #666;
-    padding-left: 0.5em;
+    margin-left: 100px;
+    padding-left: 100px;
 }
