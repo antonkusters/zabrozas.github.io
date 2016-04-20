@@ -34,7 +34,7 @@ img {
     margin-left: -0.5em;
 }
 footer {
-    margin-top: 5em;
+    margin-top: 10em;
 }
 
 footer ul {
@@ -43,5 +43,4 @@ footer ul {
 }
 footer ul li {
     display: inline;
-    margin-right: 20px;
 }
