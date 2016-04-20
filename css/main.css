@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #333;
 }
 a {
     text-decoration: none;
@@ -10,12 +12,10 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 3em;
     font-weight: normal;
 }
 p {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1em;
     line-height: 1.7em;
     color: #333;
