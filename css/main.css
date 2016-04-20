@@ -16,14 +16,14 @@ a:hover {
 h1 {
     font-size: 3em;
     font-weight: normal;
-    color: #999;
+    color: #666;
 }
 h2 {
     padding-top: 5em;
-    font-size: 2em;
+    font-size: 1.6em;
     font-weight: normal;
     line-height: 2em;
-    color: #999;
+    color: #666;
 }
 p {
     font-size: 1em;
