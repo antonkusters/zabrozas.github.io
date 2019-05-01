@@ -1,5 +1,0 @@
-name: ZABROZAS* - a creative endeavour of two brothers
-markdown: kramdown
-permalink: "/blog/:year/:month/:day/:title"
-
-theme: jekyll-theme-minimal
